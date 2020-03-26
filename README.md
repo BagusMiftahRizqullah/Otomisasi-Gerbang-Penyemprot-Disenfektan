@@ -1,6 +1,6 @@
 # Otomisasi-Gerbang-Penyemprot-Disenfektan
 OTOMISASI GERBANG PENYEMPROT DISENFEKTAN Demi Melawan COVID-19   
-create by : Bagus Miftah Rizqullah  
+created by : Bagus Miftah Rizqullah  
 Bahan yg di perlukan    
 1. Arduino uno    
 2. Sensor PIR (sensor pergerakan)    
